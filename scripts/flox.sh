@@ -6,3 +6,6 @@ flox install lazygit lazydocker
 flox install neovim
 flox install zig ruby go rustup nodejs_20 pnpm
 flox install bun
+
+flox install -i nodeNeovim nodePackages.neovim
+flox install tailwindcss-language-server
