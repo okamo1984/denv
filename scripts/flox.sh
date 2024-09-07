@@ -5,3 +5,4 @@ flox install fish curl git fx jq fzf dotenv gh httpie shellcheck direnv
 flox install lazygit lazydocker
 flox install neovim
 flox install zig ruby go rustup nodejs_20 pnpm
+flox install bun
