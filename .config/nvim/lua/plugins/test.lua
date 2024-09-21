@@ -1,4 +1,5 @@
 return {
+  { "nvim-neotest/nvim-nio" },
   { "nvim-neotest/neotest-jest" },
   { "olimorris/neotest-rspec" },
   {
