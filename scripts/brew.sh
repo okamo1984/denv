@@ -1,5 +1,7 @@
 #! /bin/bash
 
+brew install flox
+
 brew install --cask 1password-cli
 brew install --cask dbeaver-community
 brew install --cask discord

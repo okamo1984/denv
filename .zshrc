@@ -1,1 +1,2 @@
-eval "$(devbox global shellenv --init-hook)"
+eval "$(flox activate --dir ~)"
+eval "$(atuin init zsh)"
