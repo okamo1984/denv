@@ -6,7 +6,7 @@ brew install --cask 1password-cli
 brew install --cask dbeaver-community
 brew install --cask discord
 brew install --cask google-chrome
-brew install --cask firefox@develoer-edition
+brew install --cask firefox@developer-edition
 brew install --cask obsidian
 brew install --cask orbstack
 brew install --cask postman
